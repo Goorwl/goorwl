@@ -33,6 +33,7 @@ https://developer.android.google.cn/index.html)
 * [Android开发中文](http://www.androidchina.net/)
 * [MD中文翻译](http://wiki.jikexueyuan.com/project/material-design/)
 * [推酷](http://www.tuicool.com/)
+* [美团点评技术团队](http://tech.meituan.com/)
 ### Android开发
 #### Android多媒体开发
 * 音频开发
