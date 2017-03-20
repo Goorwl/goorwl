@@ -1,6 +1,6 @@
 # 橙子小站：Android技术汇总【持续更新中...】
 
-欢迎大家FORK，STAR,提ISSUES和SUGGEST,共同进步...
+欢迎大家  FORK , STAR , 提 ISSUES 和 SUGGEST , 共同进步...
 
 [Android开发谷歌中文网站](
 https://developer.android.google.cn/index.html)
@@ -107,4 +107,6 @@ https://developer.android.google.cn/index.html)
 * [聚合数据](http://free.juhe.cn/)
 * [webxml](http://www.webxml.com.cn/zh_cn/index.aspx)
 * [豆瓣电影](https://developers.douban.com/wiki/?title=guide)
+
+
 ###[持续更新。。。](http://www.jianshu.com/u/26d7cc9f08cb)
