@@ -45,6 +45,7 @@ https://developer.android.google.cn/index.html)
 		* Facebook 开源的图片加载框架；优点：三级缓存，流式(渐变式显示图片)，支持GIF。
 	* [Glide](https://github.com/bumptech/glide)【框架】
 		* Google 员工的开源项目，2014年Google I/O大会推荐；优点：实现缓存，支持优先级，与Activity生命周期一致。
+		* 使用介绍博文：[-Android图片加载框架最全解析-](http://blog.csdn.net/guolin_blog/article/details/53759439)
 	* [picasso](https://github.com/square/picasso)【框架】
 		*  Square 的开源项目，维护者 JakeWharton；优点：自带统计，支持优先级，支持延迟加载，根据网络情况自动调节并发数。
 	* [图片框架原理分析及性能比对](http://www.trinea.cn/android/android-image-cache-compare/)【博文】
@@ -109,4 +110,4 @@ https://developer.android.google.cn/index.html)
 * [豆瓣电影](https://developers.douban.com/wiki/?title=guide)
 
 
-###[持续更新。。。](http://www.jianshu.com/u/26d7cc9f08cb)
+### [持续更新。。。](http://www.jianshu.com/u/26d7cc9f08cb)
