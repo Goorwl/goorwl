@@ -108,6 +108,13 @@ https://developer.android.google.cn/index.html)
 * [聚合数据](http://free.juhe.cn/)
 * [webxml](http://www.webxml.com.cn/zh_cn/index.aspx)
 * [豆瓣电影](https://developers.douban.com/wiki/?title=guide)
+* [国内值得关注的官方 API 集合](https://zhuanlan.zhihu.com/p/25121768)
+
+### Android热修复
+* [Android 热修复专题](https://zhuanlan.zhihu.com/p/25863920)【博文】
+
+### Android多渠道打包	
+* [新一代开源Android渠道包生成工具Walle](http://tech.meituan.com/android-apk-v2-signature-scheme.html)
 
 
 ### [持续更新。。。](http://www.jianshu.com/u/26d7cc9f08cb)
