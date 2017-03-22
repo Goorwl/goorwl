@@ -32,7 +32,7 @@ https://developer.android.google.cn/index.html)
 * [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=16)
 * [Android源码下载](http://androidxref.com/)
 * [干货集中营](http://gank.io/)
-* [Android开发中文](http://www.androidchina.net/)
+* [Android开发中文站](http://www.androidchina.net/)
 * [MD中文翻译](http://wiki.jikexueyuan.com/project/material-design/)
 * [推酷](http://www.tuicool.com/)
 * [美团点评技术团队](http://tech.meituan.com/)
@@ -114,7 +114,7 @@ https://developer.android.google.cn/index.html)
 * [Android 热修复专题](https://zhuanlan.zhihu.com/p/25863920)【博文】
 
 ### Android多渠道打包	
-* [新一代开源Android渠道包生成工具Walle](http://tech.meituan.com/android-apk-v2-signature-scheme.html)
+* [新一代开源Android渠道包生成工具Walle](http://tech.meituan.com/android-apk-v2-signature-scheme.html)【博文】
 
 
 ### [持续更新。。。](http://www.jianshu.com/u/26d7cc9f08cb)
