@@ -116,5 +116,8 @@ https://developer.android.google.cn/index.html)
 ### Android多渠道打包	
 * [新一代开源Android渠道包生成工具Walle](http://tech.meituan.com/android-apk-v2-signature-scheme.html)【博文】
 
+### Android插件化
+* [Android插件化实现原理](http://blog.csdn.net/yulong0809/article/details/59113935)【博文】
+
 
 ### [持续更新。。。](http://www.jianshu.com/u/26d7cc9f08cb)
